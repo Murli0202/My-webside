@@ -1,21 +1,3 @@
-p.text {
-    color :green
-}
 body {
-    background-color: green
-}
-div.container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 300px;
-}
-div.content {
-    background-color: #3498db;
-    color: white;
-    padding: 20px;
-    border-radius: 8px;
-}
-nav.navigation {
-    margin: left 20px;
+    font-family: sans-serif 
 }
